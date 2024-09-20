@@ -66,4 +66,27 @@ For Question 2, go to `user_data_cleaner.py`.
 
 
 
+### Q3: Django Model Method for Top Customers
 
+For Question 3, follow these steps to set up and test the Django model method:
+
+1. **Run the following commands to set up your database:**
+
+```
+   python manage.py makemigrations
+   python manage.py migrate
+```
+```
+   python manage.py runserver
+```
+se Postman to interact with the API. The following endpoints are available:
+
+Add Customer: POST /customers/ (GET, POST)
+Add Order: POST /orders/ (GET, POST)
+Retrieve Top Customers: GET /top-customers/ (GET)
+Example URL for retrieving top customers:
+```
+http://localhost:8000/orders/
+```
+
+After adding data, you can check the top customers by accessing the /top-customers/ endpoint.
