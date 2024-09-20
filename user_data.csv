@@ -1,0 +1,25 @@
+user_id,email,name,age,city
+1,user1@example.com,John Doe,28,New York
+2,user2@example.com,Jane Smith,34,Los Angeles
+3,user3@domain..com,Invalid Double Dot,22,Chicago
+4,user1@example.com,John Doe,28,New York
+5,user4@domain.co,Emily Johnson,25,Houston
+6,user5@invalid-email,Invalid No TLD,30,Phoenix
+7,user6@example.com,Michael Brown,40,Philadelphia
+8,user7@domain.com,Alice Davis,29,San Antonio
+9,user8@domain,Invalid No TLD,31,Dallas
+10,user9@valid.com,Chris Wilson,27,San Diego
+11,user10@valid.com,Sarah Lee,38,San Jose
+12,user11@valid.co.uk,James Taylor,50,San Francisco
+1,user1@example.com,John Doe,28,New York
+2,user2@example.com,Jane Smith,34,Los Angeles
+3,user3@domain..com,Invalid Double Dot,22,Chicago
+4,user1@example.com,John Doe,28,New York
+5,user4@domain.co,Emily Johnson,25,Houston
+6,user5@invalid-email,Invalid No TLD,30,Phoenix
+7,user6@example.com,Michael Brown,40,Philadelphia
+8,user7@domain.com,Alice Davis,29,San Antonio
+9,user8@domain,Invalid No TLD,31,Dallas
+10,user9@valid.com,Chris Wilson,27,San Diego
+11,user10@valid.com,Sarah Lee,38,San Jose
+12,user11@valid.co.uk,James Taylor,50,San Francisco
