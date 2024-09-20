@@ -81,9 +81,9 @@ For Question 3, follow these steps to set up and test the Django model method:
 ```
 se Postman to interact with the API. The following endpoints are available:
 
-Add Customer: POST /customers/ (GET, POST)
-Add Order: POST /orders/ (GET, POST)
-Retrieve Top Customers: GET /top-customers/ (GET)
+Add Customer: POST /customers/ (GET, POST) <br>
+Add Order: POST /orders/ (GET, POST)<br>
+Retrieve Top Customers: GET /top-customers/ (GET)<br>
 Example URL for retrieving top customers:
 ```
 http://localhost:8000/orders/
