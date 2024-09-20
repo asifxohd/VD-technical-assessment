@@ -19,22 +19,22 @@ Make sure you have Python 3 and above installed. Install the necessary packages 
 #!/bin/bash
 
 # Clone the repository
+```
 git clone https://github.com/asifxohd/VD-technical-assessment.git
 
+```
 # Navigate into the project directory
-cd VD-technical-assessment || exit
+``` cd VD-technical-assessment ```
 
 # Create a virtual environment
-python3 -m venv venv_name
+```python3 -m venv venv_name ```
 
 # Activate the virtual environment
-# Uncomment the line appropriate for your OS
-
 # For macOS/Linux
-source venv_name/bin/activate
+```source venv_name/bin/activate ```
 
 # For Windows (use in PowerShell)
-# .\venv_name\Scripts\Activate
+``` .\venv_name\Scripts\Activate ```
 
 # Install the required packages
-pip install -r requirements.txt
+```pip install -r requirements.txt ```
