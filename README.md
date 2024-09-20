@@ -62,4 +62,17 @@ For Question 1, go to `scrape_news.py`.
    python scrape_news.py
 ```
 
+### Q2: CSV Data Cleaning Script
+
+For Question 2, go to `user_data_cleaner.py`.
+
+1. Use the `user_data.csv` file for testing, which contains the necessary data for the script.
+2. Run the script using the following command:
+
+```
+   python user_data_cleaner.py
+```
+
+
+
 
