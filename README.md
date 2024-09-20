@@ -90,3 +90,41 @@ http://localhost:8000/orders/
 ```
 
 After adding data, you can check the top customers by accessing the /top-customers/ endpoint.
+
+
+### Q4: Rate Limiter Implementation
+
+For Question 4,
+1. go to `rate_limiter.py`.
+2. Run the script using the following command:
+3. all the details for the testing this will provided in the code snippet in that file 
+
+```
+   python rate_limiter.py
+```
+
+### Q5: Write a function aggregate_data
+
+For Question 5,
+1. go to `aggregate_data.py`.
+2. Run the script using the following command:
+3. all the details for the testing this will provided in the code snippet in that script 
+
+```
+   python aggregate_data.py
+```
+
+### Q6: Write a function aggregate_data
+
+For Question 5,
+1. go to `find_duplicates_in_a_array.py`.
+2. Run the script using the following command:
+3. all the details for the testing this will provided in the code snippet in that script 
+
+```
+   python find_duplicates_in_a_array.py
+```
+
+
+
+
