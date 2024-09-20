@@ -48,3 +48,18 @@ source venv_name/bin/activate
 ```
 pip install -r requirements.txt
 ```
+
+## Assessment Questions
+
+### Q1: Web Scraping Script
+
+For Question 1, go to `scrape_news.py`.
+
+1. Configure the link you want in the `cnn_url` variable.
+2. Run the script using the following command:
+
+```
+   python scrape_news.py
+```
+
+
