@@ -79,7 +79,7 @@ For Question 3, follow these steps to set up and test the Django model method:
 ```
    python manage.py runserver
 ```
-se Postman to interact with the API. The following endpoints are available:
+got to  Postman to interact with the API. The following endpoints are available:
 
 Add Customer: POST /customers/ (GET, POST) <br>
 Add Order: POST /orders/ (GET, POST)<br>
